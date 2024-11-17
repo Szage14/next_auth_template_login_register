@@ -1,4 +1,4 @@
-// File: D:\BSIS 4TH YEAR 1ST SEM\01_Class Courses\03_ITE Competency Appraisal\Final Project\frontend\app\login\page.tsx
+// File: D:\BSIS 4TH YEAR 1ST SEM\01_Class Courses\03_ITE Competency Appraisal\Final Project\frontend\next_auth_template_login_register\app\login\page.tsx
 import * as entry from '../../../../app/login/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
